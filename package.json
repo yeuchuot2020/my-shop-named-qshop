@@ -1,7 +1,7 @@
 {
   "name": "happy-shop",
   "version": "0.1.0",
-  "homepage": "https://github.com/yeuchuot2020/qshop.github.io.git",
+  "homepage": "https://github.io/yeuchuot2020/qshop",
   "private": true,
   "dependencies": {
     "@material-ui/icons": "^4.11.2",
